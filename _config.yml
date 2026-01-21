@@ -23,22 +23,22 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "20250608_123708.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "India"
-  employer         : "Indian Council of Agricultural Research"
+  employer         : "ICAR-NISA"
   uri              : # URL
   email            : "sandeepkdhanju@outlook.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.co.in/citations?user=LI6AwrwAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0533-219X"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
